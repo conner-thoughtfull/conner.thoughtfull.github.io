@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my landing page
 
-You can use the [editor on GitHub](https://github.com/conner-thoughtfull/conner.thoughtfull.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm editing this page to learn and see if things work properly :pizza:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Has this edited anything?
+
+## I'm hoping this works 
 
 ### Markdown
 
